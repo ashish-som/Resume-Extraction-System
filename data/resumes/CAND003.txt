@@ -1,0 +1,40 @@
+CURRICULUM VITAE
+
+PERSONAL DETAILS
+Candidate ID: CAND003
+Full Name: Rohan Kapoor
+Email: rohan.kapoor@example.com
+Phone: +91 9899903003
+Location: Jaipur, Rajasthan
+
+PROFESSIONAL SUMMARY
+Rohan Kapoor is a professional profile submitted for consideration. The resume describes total experience as: more than 6 years. Current or most recent role: Senior Software Engineer at OrbitStack (December 2021 - Present).
+
+CAREER OBJECTIVE
+Interested in roles that make use of the candidate's professional background, practical skills and experience. The candidate's stated experience and qualifications are summarized below. This document is fictional and prepared for a classroom information-extraction exercise.
+
+PROFESSIONAL EXPERIENCE
+Develops and maintains backend services for a logistics platform. Designed REST endpoints for shipment tracking and integrated asynchronous event processing using Kafka. Worked on database query optimization and caching strategies to improve API response times. Participates in design reviews, production incident analysis and mentoring junior engineers. Previously worked as Software Engineer at CloudRoute Pvt Ltd from August 2019 to November 2021, building Java services, integrating relational databases and writing automated tests. Summary states more than six years of development experience; dates indicate a little over six years as of late 2026.
+
+CURRENT / MOST RECENT EMPLOYMENT
+Job Title: Senior Software Engineer
+Organization: OrbitStack
+Employment Period: December 2021 - Present
+
+EDUCATION
+B.E. in Computer Engineering, Rajasthan Technical University, 2019
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Java, Spring Boot, Microservices, MySQL, Redis, Kafka, Docker, Kubernetes, AWS, JUnit, Maven, REST APIs, system design
+
+CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT
+AWS Certified Developer - Associate, 2023; Oracle Java SE training, 2020
+
+ADDITIONAL EMPLOYMENT INFORMATION
+Currently employed. Notice period 90 days. Salary expectations open to discussion.
+
+PROJECTS AND CONTRIBUTIONS
+The candidate's resume includes practical work and project contributions described in the professional experience section. Students should extract only project details explicitly supported by the resume and should not assume metrics, team sizes, seniority or outcomes that are not stated.
+
+INFORMATION EXTRACTION NOTES
+Some fields may be absent, expressed approximately, or inconsistent across sections. Do not invent missing contact, salary, notice-period or employment information. If the resume contains conflicting experience figures or overlapping dates, preserve the uncertainty in the reasoning field and avoid presenting an unsupported precise value.

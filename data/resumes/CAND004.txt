@@ -1,0 +1,40 @@
+CURRICULUM VITAE
+
+PERSONAL DETAILS
+Candidate ID: CAND004
+Full Name: Sana Khan
+Email: sana.khan@example.com
+Phone: +91 9822204004
+Location: Lucknow, Uttar Pradesh
+
+PROFESSIONAL SUMMARY
+Sana Khan is a professional profile submitted for consideration. The resume describes total experience as: 2 years. Current or most recent role: UI Developer at PixelMint Studio (2023 - 2024).
+
+CAREER OBJECTIVE
+Interested in roles that make use of the candidate's professional background, practical skills and experience. The candidate's stated experience and qualifications are summarized below. This document is fictional and prepared for a classroom information-extraction exercise.
+
+PROFESSIONAL EXPERIENCE
+Developed responsive web interfaces for small business and education clients. Worked with designers to translate Figma layouts into reusable React components. Improved accessibility by adding semantic HTML, keyboard navigation and form validation. Before joining PixelMint Studio, worked as a freelance web developer from 2022 to 2023, creating landing pages and basic business websites. Freelance dates overlapped with the final year of college. Portfolio examples include a service booking page, a product catalogue and a student information portal. The resume does not specify whether freelance work was full-time or part-time.
+
+CURRENT / MOST RECENT EMPLOYMENT
+Job Title: UI Developer
+Organization: PixelMint Studio
+Employment Period: 2023 - 2024
+
+EDUCATION
+Bachelor of Computer Applications, University of Lucknow, 2022
+
+TECHNICAL AND PROFESSIONAL SKILLS
+HTML, CSS, JavaScript, React, TypeScript, Figma, responsive design, accessibility testing, Git, REST API integration
+
+CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT
+React fundamentals course, 2023; Web Accessibility introductory course, 2024
+
+ADDITIONAL EMPLOYMENT INFORMATION
+Not currently employed according to the statement that she is exploring opportunities. Notice period and expected salary not stated.
+
+PROJECTS AND CONTRIBUTIONS
+The candidate's resume includes practical work and project contributions described in the professional experience section. Students should extract only project details explicitly supported by the resume and should not assume metrics, team sizes, seniority or outcomes that are not stated.
+
+INFORMATION EXTRACTION NOTES
+Some fields may be absent, expressed approximately, or inconsistent across sections. Do not invent missing contact, salary, notice-period or employment information. If the resume contains conflicting experience figures or overlapping dates, preserve the uncertainty in the reasoning field and avoid presenting an unsupported precise value.

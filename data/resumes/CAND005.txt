@@ -1,0 +1,40 @@
+CURRICULUM VITAE
+
+PERSONAL DETAILS
+Candidate ID: CAND005
+Full Name: Miguel D'Souza
+Email: miguel.dsouza@example.com
+Phone: +91 9845005005
+Location: Bengaluru, Karnataka
+
+PROFESSIONAL SUMMARY
+Miguel D'Souza is a professional profile submitted for consideration. The resume describes total experience as: 8 years. Current or most recent role: Lead Platform Engineer at Northstar Digital (2024 - Present).
+
+CAREER OBJECTIVE
+Interested in roles that make use of the candidate's professional background, practical skills and experience. The candidate's stated experience and qualifications are summarized below. This document is fictional and prepared for a classroom information-extraction exercise.
+
+PROFESSIONAL EXPERIENCE
+Leads platform engineering initiatives for a SaaS organization. Owns infrastructure automation, deployment pipelines, observability standards and Kubernetes platform operations. Led a migration involving approximately 40 services and introduced infrastructure-as-code practices to improve repeatability. Previously worked as Senior DevOps Engineer at InfraPilot from 2021 to 2024 and Cloud Engineer at SkyGrid from 2018 to 2021. Responsibilities included cloud resource provisioning, CI/CD pipeline maintenance, container orchestration, incident response, monitoring and cost optimization. Collaborates with application teams to improve release reliability.
+
+CURRENT / MOST RECENT EMPLOYMENT
+Job Title: Lead Platform Engineer
+Organization: Northstar Digital
+Employment Period: 2024 - Present
+
+EDUCATION
+Master of Computer Applications, Christ University, 2017
+
+TECHNICAL AND PROFESSIONAL SKILLS
+AWS, Azure, Terraform, Ansible, Jenkins, GitHub Actions, Kubernetes, Helm, Prometheus, Grafana, Python, Bash, Linux, networking, infrastructure as code
+
+CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT
+AWS Solutions Architect - Associate, 2020; Certified Kubernetes Administrator, 2022; Microsoft Azure Administrator Associate, 2023
+
+ADDITIONAL EMPLOYMENT INFORMATION
+Currently employed. Notice period not stated. Expected compensation not stated.
+
+PROJECTS AND CONTRIBUTIONS
+The candidate's resume includes practical work and project contributions described in the professional experience section. Students should extract only project details explicitly supported by the resume and should not assume metrics, team sizes, seniority or outcomes that are not stated.
+
+INFORMATION EXTRACTION NOTES
+Some fields may be absent, expressed approximately, or inconsistent across sections. Do not invent missing contact, salary, notice-period or employment information. If the resume contains conflicting experience figures or overlapping dates, preserve the uncertainty in the reasoning field and avoid presenting an unsupported precise value.

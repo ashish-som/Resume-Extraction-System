@@ -1,0 +1,40 @@
+CURRICULUM VITAE
+
+PERSONAL DETAILS
+Candidate ID: CAND011
+Full Name: Vikram Singh
+Email: vikram.singh@example.com
+Phone: +91 9811111111
+Location: Gurugram, Haryana
+
+PROFESSIONAL SUMMARY
+Vikram Singh is a professional profile submitted for consideration. The resume describes total experience as: 9 years. Current or most recent role: Engineering Lead at Torque Mobility (July 2022 - Present).
+
+CAREER OBJECTIVE
+Interested in roles that make use of the candidate's professional background, practical skills and experience. The candidate's stated experience and qualifications are summarized below. This document is fictional and prepared for a classroom information-extraction exercise.
+
+PROFESSIONAL EXPERIENCE
+Leads a mechanical design team working on automotive components. Coordinates concept development, design reviews, tolerance studies and engineering change processes. Previously worked as Senior Design Engineer at MotionWorks from January 2020 to June 2022 and Design Engineer at AutoFab from January 2016 to December 2019. Experience includes CAD modelling, design validation, supplier collaboration and failure mode analysis. Has supported multiple product development cycles from early design through production handover.
+
+CURRENT / MOST RECENT EMPLOYMENT
+Job Title: Engineering Lead
+Organization: Torque Mobility
+Employment Period: July 2022 - Present
+
+EDUCATION
+M.Tech in Mechanical Engineering, IIT Roorkee, 2015; B.Tech Mechanical Engineering, NIT Kurukshetra, 2013
+
+TECHNICAL AND PROFESSIONAL SKILLS
+CATIA, SolidWorks, AutoCAD, GD&T, FMEA, product lifecycle management, tolerance analysis, automotive design, supplier coordination
+
+CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT
+Certified SolidWorks Professional, 2018; GD&T practitioner training, 2019
+
+ADDITIONAL EMPLOYMENT INFORMATION
+Currently employed. Can join within 45 days. Expected compensation not specified.
+
+PROJECTS AND CONTRIBUTIONS
+The candidate's resume includes practical work and project contributions described in the professional experience section. Students should extract only project details explicitly supported by the resume and should not assume metrics, team sizes, seniority or outcomes that are not stated.
+
+INFORMATION EXTRACTION NOTES
+Some fields may be absent, expressed approximately, or inconsistent across sections. Do not invent missing contact, salary, notice-period or employment information. If the resume contains conflicting experience figures or overlapping dates, preserve the uncertainty in the reasoning field and avoid presenting an unsupported precise value.

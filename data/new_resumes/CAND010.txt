@@ -1,0 +1,40 @@
+CURRICULUM VITAE
+
+PERSONAL DETAILS
+Candidate ID: CAND010
+Full Name: Ishita Bose
+Email: ishita.bose@example.com
+Phone: +91 9831001010
+Location: Kolkata, West Bengal
+
+PROFESSIONAL SUMMARY
+Ishita Bose is a professional profile submitted for consideration. The resume describes total experience as: about 3 years. Current or most recent role: UX Designer at CivicDigital (September 2023 - Present).
+
+CAREER OBJECTIVE
+Interested in roles that make use of the candidate's professional background, practical skills and experience. The candidate's stated experience and qualifications are summarized below. This document is fictional and prepared for a classroom information-extraction exercise.
+
+PROFESSIONAL EXPERIENCE
+Works on digital service experiences and collaborates with product managers and engineers. Conducts user interviews, prepares journey maps, develops wireframes and prototypes, and supports usability testing. Previously worked as UX Research Associate at HumanFirst Design from May 2022 to August 2023, where she helped plan research sessions and synthesize findings. Has contributed to a mobile onboarding redesign and an internal design system. Resume says about three years of experience. Portfolio is available on request; no URL is included.
+
+CURRENT / MOST RECENT EMPLOYMENT
+Job Title: UX Designer
+Organization: CivicDigital
+Employment Period: September 2023 - Present
+
+EDUCATION
+Bachelor of Design in Interaction Design, National Institute of Design, 2022
+
+TECHNICAL AND PROFESSIONAL SKILLS
+User interviews, usability testing, Figma, wireframing, prototyping, journey mapping, accessibility, design systems, qualitative research
+
+CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT
+Google UX Design Professional Certificate, 2022; introductory accessibility design workshop, 2023
+
+ADDITIONAL EMPLOYMENT INFORMATION
+Currently employed. Notice period and expected salary not stated.
+
+PROJECTS AND CONTRIBUTIONS
+The candidate's resume includes practical work and project contributions described in the professional experience section. Students should extract only project details explicitly supported by the resume and should not assume metrics, team sizes, seniority or outcomes that are not stated.
+
+INFORMATION EXTRACTION NOTES
+Some fields may be absent, expressed approximately, or inconsistent across sections. Do not invent missing contact, salary, notice-period or employment information. If the resume contains conflicting experience figures or overlapping dates, preserve the uncertainty in the reasoning field and avoid presenting an unsupported precise value.

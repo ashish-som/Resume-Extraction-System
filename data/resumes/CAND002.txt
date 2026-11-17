@@ -1,0 +1,40 @@
+CURRICULUM VITAE
+
+PERSONAL DETAILS
+Candidate ID: CAND002
+Full Name: Priya Nair
+Email: priya.nair@example.com
+Phone: +91 9811102002
+Location: Kochi, Kerala
+
+PROFESSIONAL SUMMARY
+Priya Nair is a professional profile submitted for consideration. The resume describes total experience as: around 4 years. Current or most recent role: Data Scientist at InsightWorks Analytics (March 2022 - Present).
+
+CAREER OBJECTIVE
+Interested in roles that make use of the candidate's professional background, practical skills and experience. The candidate's stated experience and qualifications are summarized below. This document is fictional and prepared for a classroom information-extraction exercise.
+
+PROFESSIONAL EXPERIENCE
+Works with business stakeholders to translate operational questions into analytical projects. Developed demand forecasting models for retail inventory planning and created reusable data preparation pipelines. Built dashboards to monitor sales, stock-outs and regional performance. Automated monthly reporting using Python and Power BI, reducing manual spreadsheet work. Earlier completed an academic capstone on customer churn prediction using classification algorithms. Experience includes exploratory data analysis, data cleaning, feature selection, cross-validation and communicating model limitations to non-technical teams.
+
+CURRENT / MOST RECENT EMPLOYMENT
+Job Title: Data Scientist
+Organization: InsightWorks Analytics
+Employment Period: March 2022 - Present
+
+EDUCATION
+B.Tech in Computer Science, Cochin University of Science and Technology, 2021; Certificate in Data Science, DataBridge Academy, 2022
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Python, SQL, pandas, NumPy, scikit-learn, Power BI, Tableau, statistics, time-series forecasting, feature engineering, model evaluation, Excel
+
+CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT
+Professional Certificate in Data Science, 2022; Python for Data Analysis course, 2021
+
+ADDITIONAL EMPLOYMENT INFORMATION
+Currently employed. Notice period not mentioned. Expected salary not provided.
+
+PROJECTS AND CONTRIBUTIONS
+The candidate's resume includes practical work and project contributions described in the professional experience section. Students should extract only project details explicitly supported by the resume and should not assume metrics, team sizes, seniority or outcomes that are not stated.
+
+INFORMATION EXTRACTION NOTES
+Some fields may be absent, expressed approximately, or inconsistent across sections. Do not invent missing contact, salary, notice-period or employment information. If the resume contains conflicting experience figures or overlapping dates, preserve the uncertainty in the reasoning field and avoid presenting an unsupported precise value.

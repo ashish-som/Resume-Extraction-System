@@ -1,0 +1,40 @@
+CURRICULUM VITAE
+
+PERSONAL DETAILS
+Candidate ID: CAND009
+Full Name: Karthik Rao
+Email: karthik.rao@example.com
+Phone: +91 9900009009
+Location: Hyderabad, Telangana
+
+PROFESSIONAL SUMMARY
+Karthik Rao is a professional profile submitted for consideration. The resume describes total experience as: 5+ years. Current or most recent role: Data Engineer II at Lakehouse Labs (2022 - Present).
+
+CAREER OBJECTIVE
+Interested in roles that make use of the candidate's professional background, practical skills and experience. The candidate's stated experience and qualifications are summarized below. This document is fictional and prepared for a classroom information-extraction exercise.
+
+PROFESSIONAL EXPERIENCE
+Builds batch and streaming data pipelines for analytics workloads. Developed ingestion workflows using Spark and Kafka and orchestrated scheduled transformations with Airflow. Implemented data quality checks for schema drift, null rates and duplicate records. Previously worked as Data Engineer at DataSpring from 2019 to 2022, supporting warehouse migration and reporting pipelines. Has worked with cloud object storage, managed data processing services and warehouse platforms. Resume states more than five years of experience; exact month-level dates are not supplied.
+
+CURRENT / MOST RECENT EMPLOYMENT
+Job Title: Data Engineer II
+Organization: Lakehouse Labs
+Employment Period: 2022 - Present
+
+EDUCATION
+B.E. in Electronics and Communication Engineering, Visvesvaraya Technological University, 2018
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Python, SQL, Apache Spark, Airflow, Kafka, Snowflake, dbt, AWS S3, AWS Glue, Redshift, Docker, data modelling, ETL, data quality
+
+CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT
+SnowPro Core Certification, 2023; Apache Spark developer training, 2021
+
+ADDITIONAL EMPLOYMENT INFORMATION
+Currently employed. Notice period not specified. Expected salary not stated.
+
+PROJECTS AND CONTRIBUTIONS
+The candidate's resume includes practical work and project contributions described in the professional experience section. Students should extract only project details explicitly supported by the resume and should not assume metrics, team sizes, seniority or outcomes that are not stated.
+
+INFORMATION EXTRACTION NOTES
+Some fields may be absent, expressed approximately, or inconsistent across sections. Do not invent missing contact, salary, notice-period or employment information. If the resume contains conflicting experience figures or overlapping dates, preserve the uncertainty in the reasoning field and avoid presenting an unsupported precise value.

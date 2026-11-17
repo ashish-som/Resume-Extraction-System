@@ -1,0 +1,40 @@
+CURRICULUM VITAE
+
+PERSONAL DETAILS
+Candidate ID: CAND001
+Full Name: Aarav Mehta
+Email: aarav.mehta@example.com
+Phone: +91 9876501001
+Location: Pune, Maharashtra
+
+PROFESSIONAL SUMMARY
+Aarav Mehta is a professional profile submitted for consideration. The resume describes total experience as: 5.5 years. Current or most recent role: Generative AI Engineer at NovaAI Technologies (January 2023 - Present).
+
+CAREER OBJECTIVE
+Interested in roles that make use of the candidate's professional background, practical skills and experience. The candidate's stated experience and qualifications are summarized below. This document is fictional and prepared for a classroom information-extraction exercise.
+
+PROFESSIONAL EXPERIENCE
+Built an internal knowledge assistant using retrieval-augmented generation, document parsing, chunking, embeddings and vector search. Developed FastAPI endpoints for ingestion and query workflows. Added structured output validation with Pydantic and implemented retries for transient model API failures. Previously worked as Python Developer at ByteCraft Systems from July 2020 to December 2022, developing backend services, data transformation scripts and REST APIs. Contributed to code reviews, unit tests and deployment documentation.
+
+CURRENT / MOST RECENT EMPLOYMENT
+Job Title: Generative AI Engineer
+Organization: NovaAI Technologies
+Employment Period: January 2023 - Present
+
+EDUCATION
+M.Tech in Computer Science, Pune Institute of Technology, 2020; B.Tech in Information Technology, 2018
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Python, FastAPI, LangChain, LangGraph, OpenAI API, Azure OpenAI, PostgreSQL, Docker, Git, REST APIs, Redis, ChromaDB, prompt engineering, Pydantic
+
+CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT
+Microsoft Azure AI Fundamentals (AI-900), 2024; LangChain application development workshop, 2023
+
+ADDITIONAL EMPLOYMENT INFORMATION
+Currently employed; notice period 60 days. Expected compensation: 20-22 LPA. Interested in AI platform and LLM application engineering roles.
+
+PROJECTS AND CONTRIBUTIONS
+The candidate's resume includes practical work and project contributions described in the professional experience section. Students should extract only project details explicitly supported by the resume and should not assume metrics, team sizes, seniority or outcomes that are not stated.
+
+INFORMATION EXTRACTION NOTES
+Some fields may be absent, expressed approximately, or inconsistent across sections. Do not invent missing contact, salary, notice-period or employment information. If the resume contains conflicting experience figures or overlapping dates, preserve the uncertainty in the reasoning field and avoid presenting an unsupported precise value.

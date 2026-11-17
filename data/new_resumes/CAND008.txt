@@ -1,0 +1,40 @@
+CURRICULUM VITAE
+
+PERSONAL DETAILS
+Candidate ID: CAND008
+Full Name: Fatima Sheikh
+Email: fatima.sheikh@example.com
+Phone: +91 9820098008
+Location: Mumbai, Maharashtra
+
+PROFESSIONAL SUMMARY
+Fatima Sheikh is a professional profile submitted for consideration. The resume describes total experience as: approximately 5 years. Current or most recent role: Senior Product Manager at ShopSphere (2022 - 2025).
+
+CAREER OBJECTIVE
+Interested in roles that make use of the candidate's professional background, practical skills and experience. The candidate's stated experience and qualifications are summarized below. This document is fictional and prepared for a classroom information-extraction exercise.
+
+PROFESSIONAL EXPERIENCE
+Led product discovery, prioritization and launch planning for a consumer commerce platform. Worked closely with design, engineering, marketing and operations teams to define quarterly roadmaps and success metrics. Owned a subscription feature from customer research through launch; internal reporting attributed an increase in repeat purchases to the feature. Previously worked as Product Manager at BrightCart from 2020 to 2022, supporting checkout improvements and customer retention initiatives. Available for opportunities since February 2025.
+
+CURRENT / MOST RECENT EMPLOYMENT
+Job Title: Senior Product Manager
+Organization: ShopSphere
+Employment Period: 2022 - 2025
+
+EDUCATION
+Post Graduate Diploma in Management, Indian Institute of Management Kozhikode, 2020; B.Com, 2018
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Product strategy, roadmap planning, user research, experimentation, analytics, SQL, Jira, Agile, stakeholder management, product discovery
+
+CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT
+Product Management certification program, 2021; Agile Product Ownership workshop, 2022
+
+ADDITIONAL EMPLOYMENT INFORMATION
+Not currently employed according to availability statement. Notice period not applicable or not stated. Expected salary not provided.
+
+PROJECTS AND CONTRIBUTIONS
+The candidate's resume includes practical work and project contributions described in the professional experience section. Students should extract only project details explicitly supported by the resume and should not assume metrics, team sizes, seniority or outcomes that are not stated.
+
+INFORMATION EXTRACTION NOTES
+Some fields may be absent, expressed approximately, or inconsistent across sections. Do not invent missing contact, salary, notice-period or employment information. If the resume contains conflicting experience figures or overlapping dates, preserve the uncertainty in the reasoning field and avoid presenting an unsupported precise value.

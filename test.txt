@@ -1,2 +1,0 @@
-Hello friends.
-We are learning git amd git hub
